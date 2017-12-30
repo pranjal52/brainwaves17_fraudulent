@@ -29,10 +29,15 @@ target          | target variable (1 = Fraudulent, 0 - Not Fraudulent)
 A participant has to submit a csv file(or a zipped csv file) with transaction_id and target as predicted probability. Check the sample submission file for reference.
 
 #### transaction_id, target
+
 id_1, 0.34214
+
 id_6, 0.01233
+
 id_9, 0.53421
+
 id_14, 0.87671
+
 id_15, 0.12201
 
 
